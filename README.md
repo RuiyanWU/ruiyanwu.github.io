@@ -6,4 +6,4 @@ This is where I'll share my study notes, small projects, and questions as I lear
 
 ## Study notes
 
-- [What I’m studying this semester](notes/this-semester.html)
+- [What I’m studying this semester](notes/this-semester.md)
