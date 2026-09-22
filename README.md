@@ -7,4 +7,4 @@ This is where I'll share my study notes, small projects, and questions as I lear
 ## Study notes
 
 - [What I’m studying this semester](notes/this-semester.md)
-- [ENGR1010: Lecture 3 — My questions & thinking](notes/ENGR1010/lecture3.html)
+- [ENGR1010: Lecture 3 — My questions & thinking](notes/ENGR1010/Lecture 3.md)
