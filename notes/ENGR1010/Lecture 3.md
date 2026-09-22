@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ENGR1010: lecture 3 My questions & thinking
+title: "ENGR1010: lecture 3 My questions & thinking"
 ---
 
 # ENGR1010: lecture 3 My questions & thinking
