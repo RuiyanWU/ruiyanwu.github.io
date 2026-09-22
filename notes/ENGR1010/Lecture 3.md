@@ -20,3 +20,5 @@ so the command itself is invalid.
 **2. When we use**_str2double(3.14159)_**command, due to preference of MATLAB, the output would be**_3.1416_**in float point instead of**_3.14159_.
 **But when used in calculation, will it still be 3.14159?**
 Yes, the precision isn't changed, it's just the way of MATLAB showing numbers, not how its stores them.
+
+[← Back to home](/)
