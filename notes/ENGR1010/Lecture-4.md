@@ -11,7 +11,7 @@ Random numbers.
 
 ## Practice in class and how I weirdly discovered Calculus
 ### First practice question
-![The first practice question](notes/ENGR1010/images/101-lecture3-P1.png)
+![The first practice question](images/101-lecture3-P1.png)
 I didn't realize we can actually add new rows to a matrix in MATLAB and I kept thinking about how to find a one-size-fit-all way to
 present the numbers and was stuck, so I thought I encountered a problem of maths.
 
