@@ -21,3 +21,9 @@ present the numbers and was stuck, so I thought I encountered a problem of maths
 
 Instead this is just programming. We can modify the rows separately so we don't need to find the formula for the whole matrix. In fact we can easily present each vector of a row and put them all together to form a matrix! Smart!
 
+### Second practice question
+
+<p align="center">
+  <img src="images/101-lecture4-P2.png" alt="Lecture 4 picture" width="400">
+</p>
+
