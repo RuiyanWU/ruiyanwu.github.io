@@ -19,5 +19,5 @@ Random numbers.
 I didn't realize we can actually add new rows to a matrix in MATLAB and I kept thinking about how to find a one-size-fit-all way to
 present the numbers and was stuck, so I thought I encountered a problem of maths.
 
-Instead this is just programming. We can modify the rows separately so we don't need to find the formula for the whole matrix. Instead we can easily present each vector of a row and put them all together to form a matrix! Smart!
+Instead this is just programming. We can modify the rows separately so we don't need to find the formula for the whole matrix. In fact we can easily present each vector of a row and put them all together to form a matrix! Smart!
 
