@@ -28,3 +28,11 @@ Instead this is just programming. We can modify the rows separately so we don't 
 </p>
 
 Here comes the fun part. For this assignment, I wrote a weird piece of code that creates a 100*100 matrix, assigned a random value between 0 and 1 to every scalar, and sort of compared the assigned value with the square of the number of row. It sounded weird even to me, because I didn't use the column assigned, and couldn't find a way to do so. However, the really weird thing is, the answer actually came out right!
+
+<p align="center">
+  <img src="images/101-lecture4-P3.png" alt="Lecture 4 picture" width="400">
+</p>
+
+Found the problem?
+
+Yep! I wasn't actually scattering dots randomly across the image like we should be doing for the Monte Carlo Method. Instead, I generated a matrix but used it as just another pile of numbers, sort of cutting the image into really thin 
