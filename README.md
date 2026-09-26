@@ -8,3 +8,4 @@ This is where I'll share my study notes, small projects, and questions as I lear
 
 - [What I’m studying this semester](notes/this-semester.md)
 - [ENGR1010: Lecture 3 — My questions & thinking](notes/ENGR1010/Lecture-3.md)
+- [ENGR1010: Lecture 4 - How I discovered Calculus](notes/ENGR1010/Lecture-4.md)
