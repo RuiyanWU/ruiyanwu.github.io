@@ -48,3 +48,5 @@ Finally, here's what I wrote after revision:
 </p>
 
 Hurray for the near perfect approximation!
+
+[← Back to home](/)
