@@ -46,3 +46,5 @@ Finally, here's what I wrote after revision:
 <p align="center">
   <img src="images/101-lecture4-P4.png" alt="Lecture 4 picture" width="400">
 </p>
+
+Hurray for the near perfect approximation!
