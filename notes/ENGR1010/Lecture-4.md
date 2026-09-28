@@ -35,4 +35,14 @@ Here comes the fun part. For this assignment, I wrote a weird piece of code that
 
 Found the problem?
 
-Yep! I wasn't actually scattering dots randomly across the image like we should be doing for the Monte Carlo Method. Instead, I generated a matrix but used it as just another pile of numbers, sort of cutting the image into really thin 
+Yep! I wasn't actually scattering dots randomly across the image like we should be doing for the Monte Carlo Method. Instead, I generated a matrix but used it as just another pile of numbers, sort of cutting the image into really thin slices and calculating the chances of the dots being under x^2.And by adding all the chances together, I obviously will get the correct answer of 1/3, only by a completely different angle.
+
+So...how can we perform the Mont Carlo Method correctly?
+
+Well, basically you "scatter" the dots by generating random ordered pairs, which act as the coordinates of the dot on a 1 x 1 plane. Then you check whether the dots land under the line by comparing the y-coordinate with x^2. If it's smaller or equal, then we consider it under the line, thus add one to the counter. In the end, we divide the results of the counter by the total number of the dots, thus computing the area underneath.
+
+Finally, here's what I wrote after revision:
+
+<p align="center">
+  <img src="images/101-lecture4-P4.png" alt="Lecture 4 picture" width="400">
+</p>
