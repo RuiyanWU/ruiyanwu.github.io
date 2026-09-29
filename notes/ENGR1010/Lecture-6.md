@@ -18,3 +18,5 @@ I did make many funny mistakes, such as making a completely blank gif: I only pl
 </p>
 
 Hey guess what I've got an idea! Wait for my newest update!
+
+[← Back to home](/)
