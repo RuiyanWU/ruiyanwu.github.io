@@ -22,3 +22,5 @@ After going through the codes, I finally found out what went wrong and quickly c
 </p>
 
 This is much easier than using the hold stuff!
+
+[← Back to home](/)
