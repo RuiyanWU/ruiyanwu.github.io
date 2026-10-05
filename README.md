@@ -4,10 +4,15 @@ I'm a freshman majoring in computer science at Global College in SJTU.
 
 This is where I'll share my study notes, small projects, and questions as I learn.
 
-## Study notes
+# Study notes
 
 - [What I’m studying this semester](notes/this-semester.md)
+
+## In college: ENGR1010
 - [ENGR1010: Lecture 3 - My questions & thinking](notes/ENGR1010/Lecture-3.md)
 - [ENGR1010: Lecture 4 - How I discovered Calculus](notes/ENGR1010/Lecture-4.md)
 - [ENGR1010: Lecture 5 - Plotting strange things](notes/ENGR1010/Lecture-5.md)
 - [ENGR1010: lecture 6 - First gif of my own!!!](notes/ENGR1010/Lecture-6.md)
+
+## Extracurricular
+- [Before we start: why I can't start on CS336](notes/CS336/before_we_start.md)
