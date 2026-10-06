@@ -7,9 +7,9 @@ title: What I’m studying this semester
 
 I am more or less a newbie in computer science so I was quite excited and a bit nervous for the first semester.
 
-I am taking Intro to Computer & Engineering this semester, and will try to do at least one lecture of Stanford CS336 per week outside of regular classes.
+I am taking Intro to Computer & Engineering this semester, and will finish the prerequisites for CS336 this semester outside of regular classes.
 
-Aside of programming courses, it's the Honors Calculus that I will probably spend most time on.
+Aside of programming courses, it's the Honors Calculus that I will probably spend most time on (.
 
 I am also taking IB courses of French Culture and Marketing. Sounds fun to me!
 
