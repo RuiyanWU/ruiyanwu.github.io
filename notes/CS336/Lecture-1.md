@@ -135,3 +135,5 @@ the vectors come without brackets.
 There are also many things to mark, for example, the first item in Python is indexed as **list[0]**, just like in C, but in MATLAB is the **A(1)**,
 the last is **list[-1]** in Python, and **A(end)** in MATLAB. The index of the items are put in **brackets []** in Python and **parenthesis ()** in MATLAB.
 
+
+[← Back to home](/)
