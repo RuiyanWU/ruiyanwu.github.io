@@ -18,3 +18,4 @@ This is where I'll share my study notes, small projects, and questions as I lear
 ## Extracurricular
 - [Before we start: why I can't start on CS336](notes/CS336/before_we_start.md)
 - [Lecture 1 on Python: Lists Basics.](notes/CS336/Lecture-1.md)
+- [Lecture 2 on Python: Loops, Counting, and Filtering.](notes/CS336/Lecture-2.md)
