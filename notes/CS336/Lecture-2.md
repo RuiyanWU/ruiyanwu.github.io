@@ -3,9 +3,9 @@ format: Defaut
 title: "Lecture 2: Much quicker than I imagined?"
 ---
 # Lecture 2 on Python: Loops, Counting, and Filtering.
-
+## The Study Plan
 **Date:** October 16, 2026  
-**Planned study time:** 1 hour  
+**Planned study time:** 10:00-11:00  
 **Focus:** Using `for` loops and `range`, calculating totals, counting, and filtering lists
 
 ## 1. Review List Operations
