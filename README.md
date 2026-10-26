@@ -15,6 +15,9 @@ This is where I'll share my study notes, small projects, and questions as I lear
 - [ENGR1010: lecture 6 - First gif of my own!!!](notes/ENGR1010/Lecture-6.md)
 - [ENGR1010: lecture 7 - Miscellaneous? that's a lot!](notes/ENGR1010/Lecture-7.md)
 - [ENGR1010: Mid-terms recap.](notes/ENGR1010/Mid-terms.md)
+- [ENGR1010: Lecture 9 - Starting on C!](notes/ENGR1010/Lecture-9.md)
+- [ENGR1010: Lecture 10 - Branch, loops, MISTAKES.](notes/ENGR1010/Lecture-10.md)
+- [ENGR1010: Lecture 11 - Functions!](notes/ENGR1010/Lecture-11.md)
 
 ## Extracurricular
 - [Before we start: why I can't start on CS336](notes/CS336/before_we_start.md)
