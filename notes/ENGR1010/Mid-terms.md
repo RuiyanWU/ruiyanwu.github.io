@@ -1,6 +1,6 @@
 ---
-Layout: Default
-title: ENGR 1010: Mid-terms recap.
+layout: default
+title: "ENGR 1010: Mid-terms recap."
 ---
 
 # ENGR 1010: Mid-terms recap.
