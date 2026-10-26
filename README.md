@@ -14,6 +14,7 @@ This is where I'll share my study notes, small projects, and questions as I lear
 - [ENGR1010: Lecture 5 - Plotting strange things](notes/ENGR1010/Lecture-5.md)
 - [ENGR1010: lecture 6 - First gif of my own!!!](notes/ENGR1010/Lecture-6.md)
 - [ENGR1010: lecture 7 - Miscellaneous? that's a lot!](notes/ENGR1010/Lecture-7.md)
+- [ENGR1010: Mid-terms recap.](notes/ENGR1010/Mid-terms.md)
 
 ## Extracurricular
 - [Before we start: why I can't start on CS336](notes/CS336/before_we_start.md)
