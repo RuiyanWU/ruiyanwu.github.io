@@ -16,10 +16,11 @@ But just reading through everything took me like two days' free time, and I tota
 
 The RC itself wasn't much better, but at least I survived it and left with A LOT of new-found understanding of MATLAB so definitely worth it.
 
+## The EXAM!
 However, the exam itself was sooo much better than I expected. I literally had 20 minutes to go over my answers (and found one miscapitalization,
-two missed semi-colons and one end.) Thank god I had time to double-check. I mean pen and paper and me, we're definitely Turing complete, but that doesn't 
-mean I'm automatically generating the output of the codes in my mind.
+two missed semi-colons and one end.) Thank god I had time to double-check. I mean pen and paper and me, we're definitely Turing complete, but that doesn't mean I'm automatically generating the output of the codes in my mind.
 
+## The grades and where I could have done better
 The grades came out RIO fast, and I went paper checking despite being quite satisfied with them (well, it's definitely not gonna get me an A+, but 95+ is 
 much better than my initial hope of not failing). Turns out I made 3 mistakes of different kind: 
 
