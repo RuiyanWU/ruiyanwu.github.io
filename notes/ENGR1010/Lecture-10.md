@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "ENGR1010: lecture11 - Branch, loops, MISTAKES."
+title: "ENGR1010: lecture 10 - Branch, loops, MISTAKES."
 ---
 
-# ENGR1010: lecture11 - Branch, loops, MISTAKES.
+# ENGR1010: lecture 10 - Branch, loops, MISTAKES.
 
 ## Key takeaways:
 ① Relation and logical operations;
