@@ -34,6 +34,7 @@ and wrote this program:
 </p>
 but there seemed to be something wrong with it. Can you find out all the problems?
 
+
 Yep, first of all I've been using **int i** and **int x**, which doesn't **width**, which is a **double** data.
 
 Secondly, I totally forgot about the initialization of _area_. So the function might just randomly assign it a starting value or something... I'm actually
