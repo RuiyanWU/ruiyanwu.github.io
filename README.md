@@ -23,3 +23,7 @@ This is where I'll share my study notes, small projects, and questions as I lear
 - [Before we start: why I can't start on CS336](notes/CS336/before_we_start.md)
 - [Lecture 1 on Python: Lists Basics.](notes/CS336/Lecture-1.md)
 - [Lecture 2 on Python: Loops, Counting, and Filtering.](notes/CS336/Lecture-2.md)
+- [Lecture 3 on Python: Slicing and Functions.](notes/CS336/Lecture-3.md)
+- [Lecture 4 on Python: String Methods and Text Cleaning.](notes/CS336/Lecture-4.md)
+- [Lecture 5 on Python: Text Reports and Word Frequencies.](notes/CS336/Lecture-5.md)
+- [Lecture 6 on Python: Dictionary Lookups, Merging, and Copying](notes/CS336/Lecture-6.md)
