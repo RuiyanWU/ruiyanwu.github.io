@@ -23,7 +23,8 @@ However, when we actually put the array as an argument in a function call, we do
 **'x' - 'X' = 'a' - 'A'**.
 2. When you want to determine whether this character **ch** is a digit, you can use **if ch<='9' && ch>='0'**.
 3. When you want to convert a digit character to a integer, you can use **ch = ch - '0'**.
-**__BE WARE__** Remember the **''** around the characters especially when they look like a number!!! Or else you'll literally be comparing actual
+
+**BE WARE** Remember the **''** around the characters especially when they look like a number!!! Or else you'll literally be comparing actual
 0s with character '0', which won't work the way you want it.
 
 ## Call by Value V.S. Call by Address
