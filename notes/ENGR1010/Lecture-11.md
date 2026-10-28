@@ -37,4 +37,15 @@ Then why do we keep returning 0 with the main function?
 Well, the Professor told me that when running the C file in the terminal, we can use different outputs (0, 1, 2 etc.) to determine the different types of
 errors encountered by the code. So basically this is a convention to ease debugging. Quite cool, right?
 
+## Global Variables V.S. Local Variables
+I spent a bit of time distinguishing local variables from global variables. Like the program tracing we had in class is sooo hard for beginners. Wanna have a try?
+
+
+And here's the answer:
+
+
+It's so tricky that you've gotta be very careful about the **comma VS semicolon** part. **int p = 3, r = 2;** means creating two local variables p and r, whereas **int p = 3; r = 2;** only creates one local variable p and simply changes value of the global variable r.
+
+Quite interesting huh? Better not do that in real programming tho, will probably get assassinated by co-developers LOL.
+
 [← Back to home](/)
