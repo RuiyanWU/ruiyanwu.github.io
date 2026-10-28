@@ -39,13 +39,27 @@ errors encountered by the code. So basically this is a convention to ease debugg
 
 ## Global Variables V.S. Local Variables
 I spent a bit of time distinguishing local variables from global variables. Like the program tracing we had in class is sooo hard for beginners. Wanna have a try?
-
+<p align="center">
+  <img src="images/101-lecture11-P1.png" alt="Lecture 11 picture" width="400">
+</p>
 
 And here's the answer:
-
+<p align="center">
+  <img src="images/101-lecture11-P2.png" alt="Lecture 11 picture" width="400">
+</p>
 
 It's so tricky that you've gotta be very careful about the **comma VS semicolon** part. **int p = 3, r = 2;** means creating two local variables p and r, whereas **int p = 3; r = 2;** only creates one local variable p and simply changes value of the global variable r.
 
 Quite interesting huh? Better not do that in real programming tho, will probably get assassinated by co-developers LOL.
+
+## Variable Shadowing
+What's more, I was actually quite curious about what will happen if we first name a **global variable r** and then put **int r = r * 2** in a function, will it be using the value from the global variable or report an error?
+<p align="center">
+  <img src="images/101-lecture11-P3.png" alt="Lecture 11 picture" width="400">
+</p>
+What's soooo interesting is that the printed value here was nothing than I could've guessed. But the program did compile and ran tho. After consulting GPT, it turns out this is called variable shadowing, where the uninitialized local value is shadowing the initialized global value. But instead of reporting an error, C just decided to give me a random value 1 here. Weird huh?
+<p align="center">
+  <img src="images/101-lecture11-P4.png" alt="Lecture 11 picture" width="400">
+</p>
 
 [← Back to home](/)
