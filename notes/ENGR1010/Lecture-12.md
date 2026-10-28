@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ENGR1010: lecture 12 - Arrays? NOT HURRAY.
+title: "ENGR1010: lecture 12 - Arrays? NOT HURRAY."
 ---
 
 # ENGR1010: lecture 12 - Arrays? NOT HURRAY.
