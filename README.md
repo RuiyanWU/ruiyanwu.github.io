@@ -28,3 +28,4 @@ This is where I'll share my study notes, small projects, and questions as I lear
 - [Lecture 4 on Python: String Methods and Text Cleaning.](notes/CS336/Lecture-4.md)
 - [Lecture 5 on Python: Text Reports and Word Frequencies.](notes/CS336/Lecture-5.md)
 - [Lecture 6 on Python: Dictionary Lookups, Merging, and Copying](notes/CS336/Lecture-6.md)
+- [Lecture 7 on Python: References, Nested Lists, and Copying](notes/CS336/Lecture-7.md)
