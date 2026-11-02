@@ -277,13 +277,27 @@ Confirmed output:
 
 ## 12. Review Questions
 
-- How does changing an object differ from reassigning a variable?
-- Why does `append()` not work as the return expression when the goal is to return a list?
-- Which lists remain shared after copying only the outer list?
-- Why does copying each inner list protect the original in these examples?
-- Why does `num += bonus` fail to update the list, while `group[i] += bonus` works?
-- Where should a per-group counter reset?
-- How do `[]` and `[[]]` affect a nested loop differently?
+**- How does changing an object differ from reassigning a variable?**
+  Changing an object changes all the lists connected to this list, whereas reassigning a variable cuts off the connection between the name and this list, 
+  linking it with a completely different list instead.
+  
+**- Why does `append()` not work as the return expression when the goal is to return a list?**
+  Because **append()** doesn't return a list, it only returns **None**.
+  
+**- Which lists remain shared after copying only the outer list?**
+  The inner lists! So when we change the inner lists, both original and copied will be changed.
+  
+**- Why does copying each inner list protect the original in these examples?**
+  Because this creates a new inner list different from the original.
+  
+**- Why does `num += bonus` fail to update the list, while `group[i] += bonus` works?**
+  Because **num** is a brand new variable equaling to one of the values in the list, whereas **group[i]** directly refers to the (i-1)th item in the list.
+
+**- Where should a per-group counter reset?**
+  In the for loop of the group of groups.
+  
+**- How do `[]` and `[[]]` affect a nested loop differently?**
+  When you try to change something in the inner loop, **[]** means there's no inner loop and thus the changing process will never be executed, whereas **[[]]** means the inner list is empty, but you can still append to it and stuff so the inner loop will be executed once.
 
 ## Keep for Future Practice
 
