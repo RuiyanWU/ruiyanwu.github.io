@@ -35,4 +35,12 @@ However, when we do call by address usually to arrays, the input argument is tak
 array inside the function, the original array is also changed! Because the parameter in the function and the input argument refers to the same
 array, instead of a copy of array.
 
+## Str commands
+### strcat
+When using **strcat**, the **\0** is overwritten and re-added at the end of the second string. However, what if we wanna add **\n** at the end to change to a new line? Should it go before or after the **\0**?
+In fact, it should go before as **\0** declares the end of a string, so the **\n** in **\0\n** is ignored automatically, whereas in **\n\0** we first change to a new line then end the string.
+
+### strcmp
+When using **strcmp**, we compare the values of the two strings. However, if we do **string1==string2**, the answer is almost always 0! Because **==** doesn't compare the value of the character, instead it compares the address of each string in memory, which is of course different for every string.
+
 [← Back to home](/)
