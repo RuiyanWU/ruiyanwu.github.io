@@ -20,7 +20,7 @@ This is where I'll share my study notes, small projects, and questions as I lear
 - [ENGR1010: Lecture 11 - Functions!](notes/ENGR1010/Lecture-11.md)
 - [ENGR1010: Lecture 12 - Arrays? NOT HURRAY.](notes/ENGR1010/Lecture-12.md)
 - [ENGR1010: Lecture 13 - All about Algorithms.](notes/ENGR1010/Lecture-13.md)
-- [ENGR1010: Lecture 14 - Finally...Pointers!](notes/ENGR1010?Lecture-14.md)
+- [ENGR1010: Lecture 14 - Finally...Pointers!](notes/ENGR1010/Lecture-14.md)
 
 ## Extracurricular
 - [Before we start: why I can't start on CS336](notes/CS336/before_we_start.md)
