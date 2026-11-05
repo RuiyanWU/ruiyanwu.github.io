@@ -1,7 +1,7 @@
---
+---
 layout: default
 title: "BEST PROJECT EVER!!!"
---
+---
 
 # BEST PROJECT EVER!!!
 
@@ -21,3 +21,4 @@ I'll upload my finalized game and thoughts on the Easter Egg after the Project i
 
 Just saying, Prof Zheng is the best prof ever!!!
 
+[← Back to home](/)
