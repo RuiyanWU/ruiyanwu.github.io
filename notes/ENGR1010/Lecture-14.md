@@ -56,7 +56,7 @@ address itself is useless.
 ## Program Tracing Problems
 
 <p align="center">
-  <img src="images/101-lecture14-P2.png" alt="Lecture 14 picture" width="400">
+  <img src="images/101-Lecture14-P2.png" alt="Lecture 14 picture" width="400">
 </p>
 
 Let's take a look at this practice:
