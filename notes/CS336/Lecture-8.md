@@ -309,14 +309,29 @@ Confirmed tests:
 
 ## 12. Review Questions
 
-- What does `.read()` return for an empty file?
-- When does `with` close the file?
-- Why must numeric strings be converted before numeric comparison?
-- Why can initializing a maximum to zero fail?
-- How does `"\n"` differ from `""` when using `readline()`?
-- What happens when `.read()` is called twice on the same open file?
-- Why does `if content:` accept `"0"` but reject `""`?
-- Why does finding the first match require a different return placement from collecting all matches?
+**- What does `.read()` return for an empty file?**
+An empty sting "".
+
+**- When does `with` close the file?**
+When the block ends, the file is closed automatically, unlike in C where you have to use fclose.
+
+**- Why must numeric strings be converted before numeric comparison?**
+Or else they will be compared as strings, which compares the Ascii value of each character separately.
+
+**- Why can initializing a maximum to zero fail?**
+Cuz sometimes all the rest might be minus.
+
+**- How does `"\n"` differ from `""` when using `readline()`?**
+**"\n"** is actually read, meaning that there's a empty line but with a line break, whereas **""** literally means there's nothing stored.
+
+**- What happens when `.read()` is called twice on the same open file?**
+The second call returns nothing since we have already arrived at the end of the readable file.
+
+**- Why does `if content:` accept `"0"` but reject `""`?**
+Cuz in Python, "0" is True whereas "" the empty string is False.
+
+**- Why does finding the first match require a different return placement from collecting all matches?**
+Cuz you can return right after finding the match in the former but have to actually go through the whole file for latter.
 
 ## Keep for Future Practice
 
