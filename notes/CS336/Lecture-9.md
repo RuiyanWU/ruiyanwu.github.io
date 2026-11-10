@@ -269,14 +269,29 @@ All three tests passed:
 
 ## 12. Review Questions
 
-- How do `"w"` and `"a"` affect an existing file?
-- Which modes create a file if it does not exist?
-- Does `write()` add a newline automatically?
-- Why must input and output paths differ in the word-count export task?
-- What happens to the remaining statements in a `try` block when an exception occurs?
-- Why return `None` for a missing file instead of `""`?
-- Why does `text is None` distinguish cases that `if not text` combines?
-- What do repeated-run and input-preservation tests check?
+**- How do `"w"` and `"a"` affect an existing file?**
+"w" automatically erases all existing content, while "a" just adds after.
+
+**- Which modes create a file if it does not exist?**
+"w" and "a".
+
+**- Does `write()` add a newline automatically?**
+Nope, we have to add that manually.
+
+**- Why must input and output paths differ in the word-count export task?**
+Or else we'll be replacing the input by the output.
+
+**- What happens to the remaining statements in a `try` block when an exception occurs?**
+They aren't executed. Just ignored lol.
+
+**- Why return `None` for a missing file instead of `""`?**
+So we can distinguish an empty file from a non-existent one.
+
+**- Why does `text is None` distinguish cases that `if not text` combines?**
+Cuz **if not text** treats **None** and **""** as the same, both being __Not Text__, whereas **is None** specifies that only **None** counts.
+
+**- What do repeated-run and input-preservation tests check?**
+Repeated-run tests check that rerunning the program doesn’t duplicate the output. Input-preservation tests check that the original input file remains unchanged.
 
 ## Keep for Future Practice
 
