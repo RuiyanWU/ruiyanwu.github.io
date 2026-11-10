@@ -34,3 +34,4 @@ This is where I'll share my study notes, small projects, and questions as I lear
 - [Lecture 6 on Python: Dictionary Lookups, Merging, and Copying](notes/CS336/Lecture-6.md)
 - [Lecture 7 on Python: References, Nested Lists, and Copying](notes/CS336/Lecture-7.md)
 - [Lecture 8 on Python: Reading Files and Processing Text](notes/CS336/Lecture-8.md)
+- [Lecture 9 on Python: Writing Files and Handling Missing Files](notes/CS336/Lecture-9.md)
