@@ -23,6 +23,8 @@ This is where I'll share my study notes, small projects, and questions as I lear
 - [ENGR1010: Lecture 14 - Finally...Pointers!](notes/ENGR1010/Lecture-14.md)
 - [BEST PROJECT EVER!!!](notes/ENGR1010/Project_1.md)
 - [ENGR1010: Lecture 15 - Arrays AND Pointers...](notes/ENGR1010/Lecture-15.md)
+- [ENGR1010: Lecture 16 - STRUCTURE!](notes/ENGR1010/Lecture-16.md)
+- [ENGR1010: Lecture 17 - C Library](notes/ENGR1010/Lecture-17.md)
 
 ## Extracurricular
 - [Before we start: why I can't start on CS336](notes/CS336/before_we_start.md)
