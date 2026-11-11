@@ -1,7 +1,7 @@
---
+---
 layout: default
 title: "ENGR1010: Lecture 15 - Arrays AND Pointers..."
---
+---
 
 # ENGR1010: Lecture 15 - Arrays AND Pointers...
 
