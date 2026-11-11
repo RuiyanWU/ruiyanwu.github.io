@@ -1,7 +1,7 @@
---
+---
 layout: default
 title: "ENGR1010: Lecture 17 - C Library"
---
+---
 
 # ENGR1010: Lecture 17 - C Library
 
