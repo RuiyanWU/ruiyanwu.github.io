@@ -1,7 +1,7 @@
---
+---
 layout: default
 title: "ENGR1010: Lecture 16 - STRUCTURE!"
---
+---
 
 # ENGR1010: Lecture 16 - STRUCTURE!
 
