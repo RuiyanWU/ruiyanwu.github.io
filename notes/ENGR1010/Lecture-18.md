@@ -56,4 +56,20 @@ By using **sprintf**, we can convert numbers to string and returning the number 
 **int n = sprintf(char * array_name, "format type", int number);**
 This works for int ("%d"), float ("%f") and other datatypes.
 
-(\)[back]
+## Switching by address
+To actually switch the outside variables, a function has to take in memory addresses as arguments and dereference them to change the values. You cannot simply switch the pointers since no values local to the function will be returned or be able I=to impact the outside.
+
+## constant pointers and pointer constants
+In fact, using a constant pointer on an array doesn't automatically makes in unchangeable! When you use the array name such as **my_array[0] = 0;**, it is totally acceptable. However, changing it via the assigned constant pointer is not allowed. When **const char * p = array;**, you cannot use **p[0] = 0;**.
+
+On the other hand, the use of a pointer constant is totally different. In this case the pointer is a constant and you cannot have it refer to any other array, but the array itself is changeable. **char * const p = array**.
+
+We can also do **const char * const p = array;** where both the pointer and the array it points to are regarded as constants.
+
+## fclose
+Always remember to add fclose after we're done with a file! The function returns **0** if the file is successfully closed, and **EOF** if it isn't.
+
+## fprintf & fscanf
+These two function both have return types of **int**, the former returning the number of printed characters, whereas the latter returns the number of matched characters, or **EOF** if arriving at the end of file without reading anything matched.
+
+[← Back to home](/)
