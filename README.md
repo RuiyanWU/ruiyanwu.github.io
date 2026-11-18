@@ -25,6 +25,7 @@ This is where I'll share my study notes, small projects, and questions as I lear
 - [ENGR1010: Lecture 15 - Arrays AND Pointers...](notes/ENGR1010/Lecture-15.md)
 - [ENGR1010: Lecture 16 - STRUCTURE!](notes/ENGR1010/Lecture-16.md)
 - [ENGR1010: Lecture 17 - C Library](notes/ENGR1010/Lecture-17.md)
+- [ENGR1010: Lecture 18 - Mid 2 prep.](notes/ENGR1010/Lecture-18.md)
 
 ## Extracurricular
 - [Before we start: why I can't start on CS336](notes/CS336/before_we_start.md)
