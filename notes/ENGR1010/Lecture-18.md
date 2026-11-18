@@ -72,4 +72,10 @@ Always remember to add fclose after we're done with a file! The function returns
 ## fprintf & fscanf
 These two function both have return types of **int**, the former returning the number of printed characters, whereas the latter returns the number of matched characters, or **EOF** if arriving at the end of file without reading anything matched.
 
+## Memory allocation
+When the execution of the main function is finished, all memory allocated during its execution will be freed automatically, but still we should use **free** to manually free the dynamically allocated memory during the execution of the program to avoid memory overflow, and of course to get points during the exam.
+
+## Structure
+Remember the **;** after the block of declaration of the struct!
+
 [← Back to home](/)
