@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "ENGR1010: Lecture 19 - C++ pointers"
+title: "ENGR1010: Lecture 19 - C++ basics"
 ---
 
-# ENGR1010: Lecture 19 - C++ pointers
+# ENGR1010: Lecture 19 - C++ basics
 ## Key takeaways
 Ct+ library and namespace;
 Console I/O;
