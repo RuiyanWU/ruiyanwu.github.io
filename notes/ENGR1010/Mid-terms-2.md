@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Mid 2 recap"
+title: "ENGR1010: Mid 2 recap"
 ---
 
-# Mid 2 recap
+# ENGR1010: Mid 2 recap
 ## The RC
 I also spent a lot of time previewing the RC materials beforehand, but wasn't able to complete all the exercises before the RC, thank god we were given time
 during the RC to actually do them too. In fact, the RC for C had a full part on algorithms, and was full of all sorts of complicated programs like various 
